@@ -1,0 +1,39 @@
+1. Introduce yourself?
+
+2. in United what did you do w.r.t to angular?
+
+3. how to add security authenticate routes in angular
+
+4. lifecycle methods angular
+
+5. step by step to build angular 13 app
+
+6. What files do you have in angular?
+
+7. parent --> child communication in angular: @Input
+
+
+
+
+
+
+
+
+
+Can you quickly introduce yourself and your skills?
+
+I am a core UI Developer with 12+ years of experience building .com websites for different organizations using HTML5, CSS3, JavaScript, Angular 18, React.js, and Redux.
+
+In the past 2 years, I worked on the React migration team, where I converted the .NET pages to React on united.com.
+Frontend is React, and used ATMOS (own library) components used company-wide.
+
+Worked on security features for users where they can manage their account like Forgot Password, Forgot MileagePlus number,
+security questions, Sign-in features, Miles-Pooling, United Club pass, Recent Activity, dashboard updates and
+KTN (Known Traveler Number), Accessibility guidelines features on united.com.
+
+Used middleware such as redux-saga to handle asynchronous tasks such as API calls, data fetching, and impure actions in a more organized and efficient way.
+
+The new initiatives I worked on include Miles-Pooling (points you get after traveling), TSA Precheck, Account security and management features, and Under18.
+
+Previously worked with the Accelerator team for Visa Inc. remediation of MBDA modules like Application Management, Account Management, Portfolio Management, Analytics, Recurring billing, Virtual Terminal, etc. for bank users like Wells Fargo, Bank of America, etc.
+
